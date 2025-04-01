@@ -1,0 +1,15 @@
+body{
+    background-color:rgba(219, 146, 216, 0.904);
+    font-family:Verdana,'Times New Roman',Sans-serif;
+    color:rgb(64, 85, 32);
+}
+a,p{
+    color:rgb(199, 0, 66);
+    font-weight:800;
+}
+h1,h2,h3,h4,h5,h6{
+    color:rgb(17, 38, 156);
+}
+ul,ol,li{
+    color:greenyellow;
+}
